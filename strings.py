@@ -17,7 +17,11 @@ print(str.replace("a" , "pallu"))
 print(str.find("a"))
 print(str.count("a"))
 print(str.find("h"))
+<<<<<<< HEAD
 ##jii
+=======
+
+>>>>>>> 9992aabf980436b77531a9d64d61287ae0abedec
 # conditionals statements 
 # if conditionals 
 age = 25 
